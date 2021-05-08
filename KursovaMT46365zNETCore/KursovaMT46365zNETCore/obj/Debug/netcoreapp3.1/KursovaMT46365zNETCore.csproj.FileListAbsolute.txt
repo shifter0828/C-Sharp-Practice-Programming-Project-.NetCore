@@ -1,0 +1,13 @@
+C:\Users\ImaShifter\Desktop\УниБИТ летен семестър 1 курс\Practice Programming\kursova\KursovaMT46365zNETCore\KursovaMT46365zNETCore\bin\Debug\netcoreapp3.1\KursovaMT46365zNETCore.exe
+C:\Users\ImaShifter\Desktop\УниБИТ летен семестър 1 курс\Practice Programming\kursova\KursovaMT46365zNETCore\KursovaMT46365zNETCore\bin\Debug\netcoreapp3.1\KursovaMT46365zNETCore.deps.json
+C:\Users\ImaShifter\Desktop\УниБИТ летен семестър 1 курс\Practice Programming\kursova\KursovaMT46365zNETCore\KursovaMT46365zNETCore\bin\Debug\netcoreapp3.1\KursovaMT46365zNETCore.runtimeconfig.json
+C:\Users\ImaShifter\Desktop\УниБИТ летен семестър 1 курс\Practice Programming\kursova\KursovaMT46365zNETCore\KursovaMT46365zNETCore\bin\Debug\netcoreapp3.1\KursovaMT46365zNETCore.runtimeconfig.dev.json
+C:\Users\ImaShifter\Desktop\УниБИТ летен семестър 1 курс\Practice Programming\kursova\KursovaMT46365zNETCore\KursovaMT46365zNETCore\bin\Debug\netcoreapp3.1\KursovaMT46365zNETCore.dll
+C:\Users\ImaShifter\Desktop\УниБИТ летен семестър 1 курс\Practice Programming\kursova\KursovaMT46365zNETCore\KursovaMT46365zNETCore\bin\Debug\netcoreapp3.1\KursovaMT46365zNETCore.pdb
+C:\Users\ImaShifter\Desktop\УниБИТ летен семестър 1 курс\Practice Programming\kursova\KursovaMT46365zNETCore\KursovaMT46365zNETCore\obj\Debug\netcoreapp3.1\KursovaMT46365zNETCore.csprojAssemblyReference.cache
+C:\Users\ImaShifter\Desktop\УниБИТ летен семестър 1 курс\Practice Programming\kursova\KursovaMT46365zNETCore\KursovaMT46365zNETCore\obj\Debug\netcoreapp3.1\KursovaMT46365zNETCore.AssemblyInfoInputs.cache
+C:\Users\ImaShifter\Desktop\УниБИТ летен семестър 1 курс\Practice Programming\kursova\KursovaMT46365zNETCore\KursovaMT46365zNETCore\obj\Debug\netcoreapp3.1\KursovaMT46365zNETCore.AssemblyInfo.cs
+C:\Users\ImaShifter\Desktop\УниБИТ летен семестър 1 курс\Practice Programming\kursova\KursovaMT46365zNETCore\KursovaMT46365zNETCore\obj\Debug\netcoreapp3.1\KursovaMT46365zNETCore.csproj.CoreCompileInputs.cache
+C:\Users\ImaShifter\Desktop\УниБИТ летен семестър 1 курс\Practice Programming\kursova\KursovaMT46365zNETCore\KursovaMT46365zNETCore\obj\Debug\netcoreapp3.1\KursovaMT46365zNETCore.dll
+C:\Users\ImaShifter\Desktop\УниБИТ летен семестър 1 курс\Practice Programming\kursova\KursovaMT46365zNETCore\KursovaMT46365zNETCore\obj\Debug\netcoreapp3.1\KursovaMT46365zNETCore.pdb
+C:\Users\ImaShifter\Desktop\УниБИТ летен семестър 1 курс\Practice Programming\kursova\KursovaMT46365zNETCore\KursovaMT46365zNETCore\obj\Debug\netcoreapp3.1\KursovaMT46365zNETCore.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xbpzVIwwi5waGprD2VLfB/iTCmf6E7cCMFSg3r5EgVOrKZ5xSR97pg+gXMTKYgDRLVo1MFuMVfsCzE2TYx3glg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ImaShifter\\Desktop\\УниБИТ летен семестър 1 курс\\Practice Programming\\kursova\\KursovaMT46365zNETCore\\KursovaMT46365zNETCore\\KursovaMT46365zNETCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ImaShifter\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ImaShifter\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ImaShifter\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
